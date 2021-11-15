@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="midterm" type="Camera_Sensor" name="Camera_Sensor" output="screen"/>>
+        <node pkg="midterm" type="Lidar_Sensor" name="Lidar_Sensor" output="screen"/>>
+	<node pkg="midterm" type="Thermovision_Camera" name="Thermovision_Camera" output="screen"/>>
+</launch>

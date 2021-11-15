@@ -1,0 +1,9 @@
+#goal definition
+uint8 r_order
+---
+#result definition
+uint8 r_result
+---
+#feedback
+uint8 r_feedback
+
