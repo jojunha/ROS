@@ -1,3 +1,5 @@
-# Ros
+# ROS Basic Communication System
 
-midterm project : ros communication system (topic , service, action) with roscpp, rospy
+
+Midterm Project : Factory Patrol & Disinfection Robot
+-> ros communication system (topic , service, action) with roscpp, rospy
