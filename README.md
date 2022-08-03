@@ -2,7 +2,7 @@
 
 ## Midterm Project : Factory Patrol & Disinfection Robot
 
-> ros basic communication system (topic , service, action) with roscpp, rospy
+> ROS Basic Communication System (topic , service, action) with roscpp, rospy
 
 > ## Run
 
@@ -13,4 +13,4 @@ rosrun midterm Control Center 3
 ```
 
 ## Damion Project : Road Outliers Detection and Mapping
-> classification(kickboard, porthole, obstacle), segmentation(crack)
+> Object Detection(kickboard, porthole, obstacle), Segmentation(crack)
